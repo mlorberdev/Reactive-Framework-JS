@@ -1,0 +1,21 @@
+body {
+  margin:0;
+  height:100vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+click-counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #444;
+  color:white;
+  width:200px;
+  height:100px;
+  cursor: pointer;
+  font-size: 2rem;
+  border-radius:5px;
+  font-family: monospace;
+  user-select: none;
+}
